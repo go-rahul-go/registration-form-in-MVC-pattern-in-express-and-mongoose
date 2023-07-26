@@ -1,0 +1,10 @@
+form{
+    width:50%;
+    height:400px;
+    display:flex;
+    flex-flow:column wrap;
+    justify-content: center;
+    align-items: center;
+    border:1px solid black;
+    gap:15px;
+}
